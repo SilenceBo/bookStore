@@ -1,0 +1,37 @@
+# BookStore
+基于servlet + jsp + javaBean的网上书城项目
+## 主要功能
+- 前台
+	- 用户登录
+	- 用户注册：邮箱激活
+	- 书籍检索
+	- 购物车
+	- 提交订单
+	- 支付
+- 后台(http://127.0.0.1:8080/BookStore/adminjsps/login.jsp)
+	- 书籍管理
+	- 分类管理
+	- 订单管理
+- 后台账号密码
+	- 账号：admin
+	- 密码：123456
+	
+## 需要的jar包：
+- myEclipse的JavaEE支持
+- activation.jar
+- mysql-connector-java-5.1.13-bin.jar
+- commons-beanutils-1.7.0.jar
+- commons-collections-3.2.1.jar
+- commons-logging-1.2.jar
+- commons-dbutils-1.4.jar
+- commons-lang-2.5.jar
+- commons-fileupload-1.2.2.jar
+- commons-io-1.4.jar
+- ezmorph-1.0.6.jar
+- json-lib-2.4-jdk15.jar
+- c3p0-0.9.2-pre1.jar
+- c3p0-oracle-thin-extras-0.9.2-pre1.jar
+- mail.jar
+- mchange-commons-0.2.jar
+- xom-1.1.jar
+- itcast-tools-1.4.2.jar(自己封装的jar，已上传到项目目录下)
